@@ -17,4 +17,4 @@ This repository demonstrates the solidity coverage problems described on [issue 
 
 
 ## Interesting notes
-If you comment out the Campaign Governor contract, the problem goes away - which might indicate that the tests are raising network activity and raising fees as a result
+If you comment out the Campaign Governor test, the problem goes away - which might indicate that the tests are raising network activity and raising fees as a result
